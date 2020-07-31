@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PocCustomView</string>
+    <string name="activity_main_send">Enviar</string>
+    <string name="view_monetary_text">Type value</string>
+    <string name="text_success">Sucesso</string>
+    <string name="text_failure">Falhou</string>
+    <string name="congratulations">"Parabéns, você conseguiu!!!"</string>
+</resources>
